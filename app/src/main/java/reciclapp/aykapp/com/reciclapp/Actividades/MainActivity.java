@@ -1,4 +1,4 @@
-package reciclapp.aykapp.com.reciclapp;
+package reciclapp.aykapp.com.reciclapp.Actividades;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -12,6 +12,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import reciclapp.aykapp.com.reciclapp.R;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
